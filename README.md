@@ -123,10 +123,35 @@ LLM_MODEL=gpt-4o-mini      # Cheaper option
 ```
 For Azure OpenAI, update `LLMExtractor` to use `AzureOpenAI` client.
 
-🖼️ Output Screenshots
+---
+
+## 🖼️ Output Screenshots
+
+### 🏠 Dashboard — Ready State
+> Clean upload interface before any document is processed.
+
+<img width="928" height="374" alt="output_0" src="https://github.com/user-attachments/assets/22c8b8ba-ae13-47e8-92ab-f598b2cf9042" />
+
+---
+
+### 🗂️ Extraction — All Fields (Aadhaar)
+> All 6 fields extracted: name, DOB, gender, Aadhaar number, address, pincode.
 
 <img width="728" height="399" alt="output_1" src="https://github.com/user-attachments/assets/ff1da6b3-d895-42ae-abed-6dc819177d0c" />
 
+---
+
+### 🎯 Extraction — Selected Fields Only
+> Only `gender` and `aadhaar_number` requested — platform returns exactly those fields.
+
+<img width="686" height="384" alt="output_2" src="https://github.com/user-attachments/assets/68d997c1-947d-4dbd-897e-8d7e48628b27" />
+
+---
+
+### ⚡ FastAPI Swagger Docs
+> Auto-generated interactive API docs at `http://localhost:8000/docs`.
+
+<img width="908" height="416" alt="output_3" src="https://github.com/user-attachments/assets/173c57dc-cf7d-48ab-8731-6ca74d975d0d" />
 
 <img width="686" height="384" alt="output_2" src="https://github.com/user-attachments/assets/68d997c1-947d-4dbd-897e-8d7e48628b27" />
 
