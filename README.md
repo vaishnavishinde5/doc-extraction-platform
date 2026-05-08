@@ -153,11 +153,6 @@ For Azure OpenAI, update `LLMExtractor` to use `AzureOpenAI` client.
 
 <img width="908" height="416" alt="output_3" src="https://github.com/user-attachments/assets/173c57dc-cf7d-48ab-8731-6ca74d975d0d" />
 
-<img width="686" height="384" alt="output_2" src="https://github.com/user-attachments/assets/68d997c1-947d-4dbd-897e-8d7e48628b27" />
-
-
-<img width="908" height="416" alt="output_3" src="https://github.com/user-attachments/assets/173c57dc-cf7d-48ab-8731-6ca74d975d0d" />
-
 
 <img width="928" height="374" alt="output_0" src="https://github.com/user-attachments/assets/22c8b8ba-ae13-47e8-92ab-f598b2cf9042" />
 
